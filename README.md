@@ -5,7 +5,7 @@ Built using **Python**, **OpenCV**, and **MediaPipe**, this project uses your we
 
 ## 🖼 Demo
 
-![Demo](assets/Demo.gif)
+![Demo](assets/Demo.mp4)
 
 ## 🎯 How It Works
 
